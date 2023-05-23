@@ -21,14 +21,14 @@
             <input type="numbers" id="height" class="weight">
         </div>
         <div class="buttons">
-            <button class="button" id="submit" onclick="calc()">Submit</button>
+            <button class="button" id="submit" oninput="calc()">Submit</button>
             <button class="allClear">Clear</button>
         </div>
-        <div>
+        <div  class="answer">
             <p>Your BMI</p>
-            <input type="numbers" class="text" id="bmi" >
+            <output type="numbers" class="text" id="bmi">
             <br>
-            <input type="text" class="massp" >
+            <output type="text" class="massp" id="text">
         </div>
     </div>
     <script src="script.js" type="text/javascript"></script>
