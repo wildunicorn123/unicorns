@@ -1,3 +1,4 @@
+@import url('https://fonts.cdnfonts.com/css/acens');
 .container{
     text-align: center;
     margin-top: 200px;
@@ -5,3 +6,11 @@
 .buttons{
     margin-top: 10px;
 }
+body{
+    background: url(./images/MV5BMTk5ODExMDE3N15BMl5BanBnXkFtZTcwMjUwOTgwNA@@._V1_QL75_UX500_CR0\,47\,500\,281_.jpg);
+    color:white;
+    font-family: 'Acens',sans-serif;
+    margin:0 0 0 0;
+}
+
+
